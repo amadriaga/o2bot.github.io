@@ -1,0 +1,59 @@
+<svg viewBox="0 0 550 140" xmlns="http://www.w3.org/2000/svg">
+
+<!--
+=====================================================================
+HUMBERSTACK LOGO - VERSION 1.0 - PRODUCTION MASTER (LOCKED)
+=====================================================================
+This is the PRODUCTION MASTER version with Helvetica Neue text elements.
+DO NOT MODIFY without proper version control procedures.
+
+Features:
+- Font-dependent: Uses Helvetica Neue text elements
+- Stack icon design representing layered infrastructure
+- Clean, minimal design
+- Production baseline version
+
+Created: 2026-04-16
+Based on: Humberlift v1.0 master template
+=====================================================================
+-->
+
+<!-- BACKGROUND -->
+<rect x="0" y="0" width="550" height="140" fill="#ffffff"/>
+
+<!-- SYMBOL -->
+<g transform="translate(15,20) scale(0.52)">
+<!-- Icon background with refined corner radius -->
+<rect x="10" y="10" width="180" height="180" rx="20" fill="#1a1a1a"/>
+
+<!-- |||= icon - three vertical bars beside three horizontal bars -->
+<g transform="translate(45, 73)">
+  <!-- Three vertical bars (|||) -->
+  <rect x="0" y="0" width="16" height="60" rx="3" fill="#ffffff"/>
+  <rect x="22" y="0" width="16" height="60" rx="3" fill="#ffffff"/>
+  <rect x="44" y="0" width="16" height="60" rx="3" fill="#ffffff"/>
+  
+  <!-- Three horizontal bars (=) -->
+  <rect x="65" y="0" width="35" height="16" rx="3" fill="#ffffff"/>
+  <rect x="65" y="22" width="35" height="16" rx="3" fill="#ffffff"/>
+  <rect x="65" y="44" width="35" height="16" rx="3" fill="#ffffff"/>
+</g>
+
+<!-- Subtle highlight for depth -->
+<rect x="10" y="10" width="180" height="2" rx="1" fill="#ffffff" opacity="0.08"/>
+</g>
+
+<!-- WORDMARK -->
+<g transform="translate(120,90)">
+
+<!-- Main wordmark -->
+<text font-family="'Helvetica Neue', Helvetica, 'Segoe UI', Arial, sans-serif"
+      font-size="64"
+      font-weight="600"
+      letter-spacing="-2.5"
+      fill="#1a1a1a">
+H<tspan dx="-4">u</tspan><tspan dx="-2">m</tspan><tspan dx="-2">b</tspan>e<tspan dx="-2">r</tspan><tspan fill="#f97316">S<tspan dx="-2">t</tspan>a<tspan dx="-2">c</tspan><tspan dx="-2">k</tspan></tspan></text>
+
+</g>
+
+</svg>

@@ -1,0 +1,46 @@
+<svg viewBox="0 0 550 140" xmlns="http://www.w3.org/2000/svg">
+
+<!--
+=====================================================================
+HUMBERSTACK LOGO - VERSION 1.0 - WHITE ON TRANSPARENT
+=====================================================================
+White version for dark backgrounds.
+Based on production master v1.0.
+
+Created: 2026-04-16
+=====================================================================
+-->
+
+<!-- SYMBOL -->
+<g transform="translate(15,20) scale(0.52)">
+<!-- Icon background -->
+<rect x="10" y="10" width="180" height="180" rx="20" fill="#ffffff"/>
+
+<!-- |||= icon in dark -->
+<g transform="translate(45, 73)">
+  <!-- Three vertical bars (|||) -->
+  <rect x="0" y="0" width="16" height="60" rx="3" fill="#1a1a1a"/>
+  <rect x="22" y="0" width="16" height="60" rx="3" fill="#1a1a1a"/>
+  <rect x="44" y="0" width="16" height="60" rx="3" fill="#1a1a1a"/>
+  
+  <!-- Three horizontal bars (=) -->
+  <rect x="65" y="0" width="35" height="16" rx="3" fill="#1a1a1a"/>
+  <rect x="65" y="22" width="35" height="16" rx="3" fill="#1a1a1a"/>
+  <rect x="65" y="44" width="35" height="16" rx="3" fill="#1a1a1a"/>
+</g>
+
+<!-- Subtle highlight -->
+<rect x="10" y="10" width="180" height="2" rx="1" fill="#1a1a1a" opacity="0.08"/>
+</g>
+
+<!-- WORDMARK -->
+<g transform="translate(120,90)">
+<text font-family="'Helvetica Neue', Helvetica, 'Segoe UI', Arial, sans-serif"
+      font-size="64"
+      font-weight="600"
+      letter-spacing="-2.5"
+      fill="#ffffff">
+H<tspan dx="-4">u</tspan><tspan dx="-2">m</tspan><tspan dx="-2">b</tspan>e<tspan dx="-2">r</tspan><tspan fill="#f97316">S<tspan dx="-2">t</tspan>a<tspan dx="-2">c</tspan><tspan dx="-2">k</tspan></tspan></text>
+</g>
+
+</svg>

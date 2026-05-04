@@ -1,0 +1,15 @@
+# Generated PNG files
+png/
+*.png
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IMPORTANT: Master files should be committed but protected from accidental edits
+# Do not add master files here - they should be version controlled
+# See VERSION-CONTROL.md for modification procedures

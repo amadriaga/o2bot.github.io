@@ -1,0 +1,30 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+
+<!--
+=====================================================================
+HUMBERSTACK FAVICON - VERSION 1.0
+=====================================================================
+Optimized 32x32 favicon version.
+Simplified design for maximum clarity at small sizes.
+
+Created: 2026-04-16
+=====================================================================
+-->
+
+<!-- Dark background -->
+<rect x="0" y="0" width="32" height="32" rx="4" fill="#1a1a1a"/>
+
+<!-- Simplified |||= icon for favicon -->
+<g transform="translate(4, 8)">
+  <!-- Three vertical bars (|||) -->
+  <rect x="0" y="0" width="3.5" height="16" rx="0.75" fill="#ffffff"/>
+  <rect x="5.5" y="0" width="3.5" height="16" rx="0.75" fill="#ffffff"/>
+  <rect x="11" y="0" width="3.5" height="16" rx="0.75" fill="#ffffff"/>
+  
+  <!-- Three horizontal bars (=) -->
+  <rect x="16.5" y="1.5" width="11.5" height="3.5" rx="0.75" fill="#ffffff"/>
+  <rect x="16.5" y="6.25" width="11.5" height="3.5" rx="0.75" fill="#ffffff"/>
+  <rect x="16.5" y="11" width="11.5" height="3.5" rx="0.75" fill="#ffffff"/>
+</g>
+
+</svg>

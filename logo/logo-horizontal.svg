@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 200" width="650" height="200">
+  <!-- Humberstack Logo with Text - |||= Design -->
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2563eb;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- |||= Logo Symbol -->
+  <g transform="translate(25, 73)">
+    <!-- Three vertical bars ||| -->
+    <rect x="0" y="0" width="16" height="80" rx="3.5" fill="url(#logoGradient)"/>
+    <rect x="22" y="0" width="16" height="80" rx="3.5" fill="url(#logoGradient)"/>
+    <rect x="44" y="0" width="16" height="80" rx="3.5" fill="url(#logoGradient)"/>
+    
+    <!-- Three horizontal bars = -->
+    <rect x="65" y="4" width="35" height="16" rx="3.5" fill="url(#logoGradient)"/>
+    <rect x="65" y="29" width="35" height="16" rx="3.5" fill="url(#logoGradient)"/>
+    <rect x="65" y="54" width="35" height="16" rx="3.5" fill="url(#logoGradient)"/>
+  </g>
+  
+  <!-- Text: HumberStack -->
+  <text x="155" y="120" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#1f2937">
+    Humber<tspan fill="#f97316">Stack</tspan>
+  </text>
+</svg>

@@ -1,0 +1,55 @@
+<svg viewBox="0 0 500 140" xmlns="http://www.w3.org/2000/svg">
+
+<!--
+=====================================================================
+HUMBERLIFT LOGO - VERSION 1.0 - PRODUCTION MASTER (LOCKED)
+=====================================================================
+This is the PRODUCTION MASTER version with Helvetica Neue text elements.
+DO NOT MODIFY without proper version control procedures.
+
+Features:
+- Font-dependent: Uses Helvetica Neue text elements
+- Simple i with standard dot (no custom shapes)
+- Clean, minimal design
+- Original baseline version
+
+Last locked: 2026-04-16
+=====================================================================
+-->
+
+<!-- BACKGROUND -->
+<rect x="0" y="0" width="500" height="140" fill="#ffffff"/>
+
+<!-- SYMBOL -->
+<g transform="translate(15,20) scale(0.52)">
+<!-- Icon background with refined corner radius -->
+<rect x="10" y="10" width="180" height="180" rx="20" fill="#1a1a1a"/>
+<!-- Lift icon refined -->
+<path fill="#ffffff" d="
+M62 66 L86 56 L86 120
+C86 96 110 84 128 84
+C146 84 156 100 156 120
+L156 146 L134 148 L134 120
+C134 106 122 100 108 100
+C94 100 86 110 86 124
+L86 146 L62 148 Z
+"/>
+<!-- Subtle highlight for depth -->
+<rect x="10" y="10" width="180" height="2" rx="1" fill="#ffffff" opacity="0.08"/>
+</g>
+
+<!-- WORDMARK -->
+<g transform="translate(135,90)">
+
+<!-- Main wordmark -->
+<text font-family="'Helvetica Neue', Helvetica, 'Segoe UI', Arial, sans-serif"
+font-size="64"
+font-weight="600"
+letter-spacing="-2.5"
+fill="#1a1a1a">
+H<tspan dx="-4">u</tspan><tspan dx="-2">m</tspan><tspan dx="-2">b</tspan>e<tspan dx="-2">r</tspan>l<tspan dx="-3">i</tspan><tspan dx="-1">f</tspan><tspan dx="3">t</tspan>
+</text>
+
+</g>
+
+</svg>
